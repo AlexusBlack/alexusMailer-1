@@ -3,11 +3,9 @@ alexusMailer 1.* - sendmail anonymous mailing script. йаПосылалка 1.*
 
 ## English
 
-[Demonstration service, real sending is disabled](http://mailer.a-l-e-x-u-s.ru/en/demo/)
+[Documentation - Russian, English is built in](alexusMailer_v1.7.ru.pdf)
 
-[Documentation](http://mailer.a-l-e-x-u-s.ru/en/faq/) (TODO: must be moved to github)
-
-###[Download](https://github.com/AlexusBlack/alexusMailer-1/raw/master/alexusMailer_latest.zip)
+###[Download](alexusMailer_latest.zip)
 
 ####Important code problems:
 - Messy and dirty (very old code base)
@@ -16,11 +14,9 @@ alexusMailer 1.* - sendmail anonymous mailing script. йаПосылалка 1.*
 
 ## Russian
 
-[Демонстрационный сервис, отправка отключена](http://mailer.a-l-e-x-u-s.ru/demo/)
+[Документация](alexusMailer_v1.7.ru.pdf)
 
-[Документация](http://mailer.a-l-e-x-u-s.ru/faq/) (TODO: перенести на github)
-
-###[Скачать](https://github.com/AlexusBlack/alexusMailer-1/raw/master/alexusMailer_latest.zip)
+###[Скачать](alexusMailer_latest.zip)
 
 ####Важные проблемы:
 - Путанный и грязный код (очень старая кодовая база)
